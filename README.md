@@ -37,4 +37,4 @@ For a phone on the same Wi-Fi network, run Flask on an accessible development ho
 - Obtain permission and a legitimate data feed before any real transport integration.
 
 ## Team
-Add team members, institution and contact details before submission.
+Team members-Shreya.R,Shravya PD Rai,Vridhi PN, Institution-Mangalore Institute of technology
